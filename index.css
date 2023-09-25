@@ -1,0 +1,25 @@
+body{
+    color: rgb(225, 100, 50);
+    background-color: #603015;
+    font-size: 20px;
+}
+#header-nav {
+    background-color: #eedd25;
+    border-radius: 0;
+    border: 0;
+}
+#text {
+font-size: 125%;
+text-transform: uppercase;
+color: #5e5eff;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+display: inline;
+margin: 3%;
+}
+.div1{
+    margin:3%;
+    width: 95%;
+    height: auto;
+    text-align: center;
+    border: 5px solid #604020;
+}
